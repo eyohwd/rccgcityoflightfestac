@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4fe76bb3.css",
+    "main.js": "/static/js/main.8116a45c.js",
+    "static/media/dep11.jpg": "/static/media/dep11.6a52a5a3da8be41f89c5.jpg",
+    "static/media/dep4.jpg": "/static/media/dep4.0c077865e58326431854.jpg",
+    "static/media/depart3.jpg": "/static/media/depart3.1f129d23bdd1a3e02a36.jpg",
+    "static/media/dep1.jpg": "/static/media/dep1.7277abc66bee6b8ed155.jpg",
+    "static/media/depart4.jpg": "/static/media/depart4.0d6c0b5c738fa338ed45.jpg",
+    "static/media/depart2.jpg": "/static/media/depart2.ec37836a9a1a1e57513a.jpg",
+    "static/media/about1a.jpg": "/static/media/about1a.191707ce07ebb96f9f4c.jpg",
+    "static/media/dep5.jpg": "/static/media/dep5.9dcadf115576d917ea2f.jpg",
+    "static/media/about2a.jpg": "/static/media/about2a.5b0fccb179cd0c657610.jpg",
+    "static/media/dep6.jpg": "/static/media/dep6.e53ec448057817cf271c.jpg",
+    "static/media/about3a.jpg": "/static/media/about3a.2b9a66a362ade17f4860.jpg",
+    "static/media/dep8.jpg": "/static/media/dep8.7047a225f5aa6e52012c.jpg",
+    "static/media/colimage3a.jpg": "/static/media/colimage3a.f618fb716b20f0c78731.jpg",
+    "static/media/dep3.jpg": "/static/media/dep3.b3790be5659dad9aa96a.jpg",
+    "static/media/dep12.jpg": "/static/media/dep12.6079a43b850b6a460cd1.jpg",
+    "static/media/colimage2a.jpg": "/static/media/colimage2a.d9994403072c2d9f2bd5.jpg",
+    "static/media/dep10.jpg": "/static/media/dep10.18dd0617576ffba38db5.jpg",
+    "static/media/dep9.jpg": "/static/media/dep9.c24917bed54f44c1161b.jpg",
+    "static/media/colimage1a.jpg": "/static/media/colimage1a.ec0497f2cb5aaad35461.jpg",
+    "static/media/depart1.jpg": "/static/media/depart1.6a4a35b55606b048e90a.jpg",
+    "static/media/dep2.jpg": "/static/media/dep2.c670e731eef9be4896da.jpg",
+    "static/media/col-logo.png": "/static/media/col-logo.66e92d53f74ccb524603.png",
+    "static/media/ava40a.jpg": "/static/media/ava40a.88d2809d289c7d041347.jpg",
+    "static/media/worker2.jpeg": "/static/media/worker2.32ab7106b9a4a284056e.jpeg",
+    "static/media/formfill2.jpg": "/static/media/formfill2.d58bf6127df1e393b60c.jpg",
+    "static/media/giving.jpg": "/static/media/giving.5c3efc48aa5c3066c187.jpg",
+    "static/media/watchlive1.jpg": "/static/media/watchlive1.ea3c141cf63300e234bb.jpg",
+    "static/media/loader.gif": "/static/media/loader.9d11df4bdd0bb34de773.gif",
+    "index.html": "/index.html",
+    "main.4fe76bb3.css.map": "/static/css/main.4fe76bb3.css.map",
+    "main.8116a45c.js.map": "/static/js/main.8116a45c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fe76bb3.css",
+    "static/js/main.8116a45c.js"
+  ]
+}
